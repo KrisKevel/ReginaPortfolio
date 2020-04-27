@@ -37,7 +37,6 @@ export default {
 <style>
     .important-text{
         margin: 0 0 0 5rem;
-        text-shadow: 1px 1px 1px rgb(0, 0, 0, 0.4);
     }
 
     .important-all {

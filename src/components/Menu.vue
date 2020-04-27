@@ -11,7 +11,7 @@ export default{
 
 <style>
     .top-text {
-        color: black;
+        color: #F7D9FF;
         display: block;
         text-align: center;
         padding: 35px 16px;
@@ -19,7 +19,7 @@ export default{
     }
     .top-menu {
         height: 5rem;
-        background-color: #88ACFF;
+        background-color: #431D62;
         width: 100%;
         top: 0;
         box-shadow: 5px 10px 13px rgb(0, 0, 0, 0.6);
