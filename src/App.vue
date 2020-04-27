@@ -3,10 +3,10 @@
 </template>
 
 <style>
-  @import url('https://fonts.googleapis.com/css?family=Roboto');
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet"');
 
   html { font-size: 22px; }
-  body { font-family: 'Roboto', sans-serif; }
+  body { font-family: 'Cormorant Garamond', serif; }
 
   a {
     color: #0094FF;

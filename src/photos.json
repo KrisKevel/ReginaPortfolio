@@ -1,7 +1,8 @@
 [
   {
     "id": 0,
-    "title": "Hey there",
+    "outside": "Very important info",
+    "inside": "Hey there",
     "filename": "kris.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
@@ -9,7 +10,8 @@
   },
   {
     "id": 1,
-    "title": "Hey there",
+    "outside": "Very important info",
+    "inside": "Hey there",
     "filename": "poiss.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
@@ -17,7 +19,8 @@
   },
   {
     "id": 2,
-    "title": "Hey there",
+    "outside": "Very important info",
+    "inside": "Hey there",
     "filename": "tudruk.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
@@ -25,7 +28,8 @@
   },
   {
     "id": 3,
-    "title": "Hey there",
+    "outside": "Very important info",
+    "inside": "Hey there",
     "filename": "pink.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
@@ -33,7 +37,8 @@
   },
   {
     "id": 4,
-    "title": "Hey there",
+    "outside": "Very important info",
+    "inside": "Hey there",
     "filename": "newYear.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
@@ -41,7 +46,8 @@
   },
   {
     "id": 5,
-    "title": "Hey there",
+    "outside": "Very important info",
+    "inside": "Hey there",
     "filename": "flowie.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"

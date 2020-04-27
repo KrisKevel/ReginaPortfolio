@@ -3,7 +3,7 @@
     <img :src="photoUrl(photo.filename)">
     <div class="lightbox-info">
       <div class="lightbox-info-inner">
-        <p v-if="photo.title">{{ photo.title }}</p>
+        <p v-if="photo.inside">{{ photo.inside }}</p>
         <p v-if="photo.autor.name">{{ photo.autor.name }}</p>
         <p v-if="photo.photographer">
           <a rel="nofollow" :href="photo.photographer.url">{{ photo.photographer.name }}</a>

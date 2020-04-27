@@ -1,11 +1,17 @@
 <template>
-  <div class="gallery">
-    <div class="gallery-panel"
-         v-for="photo in photos"
-         :key="photo.id">
-      <router-link :to="`/photo/${photo.id}`">
-        <img :src="thumbUrl(photo.filename)">
-      </router-link>
+  <div class = "gallery-all">
+    <div class = "gallery-text">
+      <span> Teised tööd </span>
+    </div>
+    <div class="gallery">
+      <div class="gallery-panel"
+          v-for="photo in photos"
+          :key="photo.id">
+        <router-link :to="`/photo/${photo.id}`">
+          <img :src="thumbUrl(photo.filename)">
+        </router-link>
+        <p class = "outer" v-if="photo.outside">{{ photo.outside }}</p>
+      </div>
     </div>
   </div>
 </template>
@@ -29,12 +35,26 @@ export default {
 </script>
 
 <style>
+  .outer {
+    margin-top: 0;
+    font-size: 15px;
+  }
+
+  .gallery-text{
+    margin: 0 0 0 5rem;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0, 0.4);
+  }
+
+  .gallery-all {
+    margin: 5rem auto;
+  }
+
   .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
     grid-gap: 5px;
     max-width: 50rem;
-    margin: 5rem auto;
+    margin: 1rem auto;
     padding: 0 5rem;
   }
 
