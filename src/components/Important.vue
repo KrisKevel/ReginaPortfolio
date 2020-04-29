@@ -41,14 +41,14 @@ export default {
 
 <style>
     .centered{
-      margin: 0 0 0 9rem;
-      width: 50%;
-      padding: 10px;
       height: 30vw;
+      transform: translate(80%, 0%);
     }
 
     .centered img{
+      top: 200%;
       height: 30vw;
+      transform: translate(0%, 0%);
     }
     
     .important-text{
