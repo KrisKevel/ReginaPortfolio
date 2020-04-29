@@ -1,7 +1,7 @@
 [
     {
       "id": 0,
-      "outside": "Jalgrattas",
+      "outside": "Naine jalgrattaga",
       "inside": "Tehnika: graafika, värviline pliiats",
       "filename": "bike.jpg",
       "autor": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "outside": "Tool",
+      "outside": "Natüürmort \"Tool ja punane lamp\"",
       "inside": "Tehnika: maal, akrüül",
       "filename": "chair.jpg",
       "autor": {
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "outside": "Mänguruum tegelaskujudega",
+      "outside": "Mänguruum tegelaskujudega \"5am\"",
       "inside": "Tehnika: digimaal",
       "filename": "plants.jpg",
       "autor": {
@@ -51,6 +51,46 @@
     },
     {
       "id": 5,
+      "outside": "Loovtöö plakat \"Hoidke loodust!\"",
+      "inside": "Tehnika: digimaal",
+      "filename": "nature.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+        "id": 6,
+        "outside": "Päievalilled ja päikeseloojang",
+        "inside": "Tehnika: digimaal",
+        "filename": "sun.jpg",
+        "autor": {
+        "name": "Autor: Regina Grozdova"
+        },
+        "year": "2020"
+    },
+    {
+        "id": 7,
+        "outside": "Õhtu kahekesi",
+        "inside": "Tehnika: digimaal",
+        "filename": "shower.jpg",
+        "autor": {
+        "name": "Autor: Regina Grozdova"
+        },
+        "year": "2019"
+    },
+    {
+        "id": 8,
+        "outside": "Ei jäta sind",
+        "inside": "Tehnika: digimaal",
+        "filename": "blue.jpg",
+        "autor": {
+        "name": "Autor: Regina Grozdova"
+        },
+        "year": "2019"
+    },
+    {
+      "id": 9,
       "outside": "Tüdruk ja koer",
       "inside": "Tehnika: digimaal",
       "filename": "kris.jpg",
@@ -60,7 +100,7 @@
       "year": "2020"
     },
     {
-      "id": 6,
+      "id": 10,
       "outside": "Poiss",
       "inside": "Tehnika: digimaal",
       "filename": "poiss.jpg",
@@ -70,8 +110,8 @@
       "year": "2020"
     },
     {
-      "id": 7,
-      "outside": "Bengali tuled",
+      "id": 11,
+      "outside": "Säraküünlad",
       "inside": "Tehnika: digimaal",
       "filename": "pink.jpg",
       "autor": {
@@ -80,7 +120,7 @@
       "year": "2019"
     },
     {
-      "id": 8,
+      "id": 12,
       "outside": "Võililled",
       "inside": "Tehnika: digimaal",
       "filename": "flowie.jpg",
@@ -90,8 +130,8 @@
       "year": "2019"
     },
     {
-      "id": 9,
-      "outside": "Mees",
+      "id": 13,
+      "outside": "Vanamees",
       "inside": "Tehnika: graafika, süsi",
       "filename": "greece.jpg",
       "autor": {
@@ -100,17 +140,7 @@
       "year": "2018"
     },
     {
-      "id": 10,
-      "outside": "Loovtöö",
-      "inside": "Tehnika: digimaal",
-      "filename": "nature.jpg",
-      "autor": {
-        "name": "Autor: Regina Grozdova"
-      },
-      "year": "2019"
-    },
-    {
-      "id": 11,
+      "id": 14,
       "outside": "Tilgad",
       "inside": "Tehnika: graafika, tušš",
       "filename": "dripping_man.jpg",
@@ -120,7 +150,7 @@
       "year": "2019"
     },
     {
-      "id": 12,
+      "id": 15,
       "outside": "Visandid",
       "inside": "Tehnika: graafika, pastakas",
       "filename": "bodies.jpg",
@@ -130,8 +160,8 @@
       "year": "2019"
     },
     {
-      "id": 13,
-      "outside": "Lavendel",
+      "id": 16,
+      "outside": "Lavendel. Seinamaal",
       "inside": "Tehnika: maal, akrüül",
       "filename": "wall.jpg",
       "autor": {
@@ -140,9 +170,9 @@
       "year": "2020"
     },
     {
-      "id": 14,
+      "id": 17,
       "outside": "Jalanõud",
-      "inside": "Tehnika: akrüül",
+      "inside": "Tehnika: tekstiil, akrüül",
       "filename": "boots.jpg",
       "autor": {
         "name": "Autor: Regina Grozdova"

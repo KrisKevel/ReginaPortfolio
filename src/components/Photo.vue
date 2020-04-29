@@ -1,8 +1,9 @@
 <template>
   <div class="lightbox" @click.self="closeLightbox">
-    <img :src="photoUrl(photo.filename)">
-    <div class="lightbox-info">
-      <div class="lightbox-info-inner">
+    <img :src="photoUrl(photo.filename)" @click.self="closeLightbox">
+    <div class="lightbox-info" @click.self="closeLightbox">
+      <div class="lightbox-info-inner" @click.self="closeLightbox">
+        <p v-if="photo.outside">{{ photo.outside }}</p>
         <p v-if="photo.inside">{{ photo.inside }}</p>
         <p v-if="photo.autor.name">{{ photo.autor.name }}</p>
         <p v-if="photo.year">{{ photo.year }}</p>

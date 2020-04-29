@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "outside": "Jalgrattas",
+    "outside": "Naine jalgrattaga",
     "inside": "Tehnika: graafika, värviline pliiats",
     "filename": "bike.jpg",
     "autor": {
@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "outside": "Tool",
+    "outside": "Natüürmort \"Tool ja punane lamp\"",
     "inside": "Tehnika: maal, akrüül",
     "filename": "chair.jpg",
     "autor": {

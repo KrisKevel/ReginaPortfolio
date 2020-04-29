@@ -41,7 +41,6 @@ export default {
 
 <style>
     .centered{
-      top: 200%;
       height: 30vw;
       transform: translate(80%, 0%);
     }
@@ -67,11 +66,16 @@ export default {
       max-width: 50rem;
       margin: 1rem auto;
       padding: 0 5rem;
+      position: relative;
     }
 
     .important-panel img {
       width: 100%;
       height: 30vw;
       object-fit: cover;
+    }
+
+    .important-panel{
+      transform: translate(0%, 0%);
     }
 </style>
