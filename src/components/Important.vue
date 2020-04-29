@@ -1,16 +1,21 @@
 <template>
     <div class = "important-all">
         <div class = "important-text">
-        <span> Tähtsad tööd </span>
+            <span> Kohustuslikud tööd </span>
         </div>
         <div class="important">
-            <div class="important-panel"
-                v-for="photo in important"
-                :key="photo.id">
-            <router-link :to="`/photo/${photo.id}`">
-                <img :src="thumbUrl(photo.filename)">
-            </router-link>
-            <p class = "outer" v-if="photo.outside">{{ photo.outside }}</p>
+            <div class="important-panel" v-for="photo in important":key="photo.id">
+                <router-link :to="`/photo/${photo.id}`">
+                    <img :src="thumbUrl(photo.filename)">
+                </router-link>
+                <p class = "outer" v-if="photo.outside">{{ photo.outside }}</p>
+            </div>
+            
+            <div class = "centered">
+                <router-link :to="`/photo/4`">
+                    <img :src="thumbUrl('plants.jpg')">
+                </router-link>
+                <p class = "outer">Mänguruum tegelaskujudega</p>
             </div>
         </div>
     </div>
@@ -35,6 +40,18 @@ export default {
 </script>
 
 <style>
+    .centered{
+      top: 200%;
+      height: 30vw;
+      transform: translate(80%, 0%);
+    }
+
+    .centered img{
+      top: 200%;
+      height: 30vw;
+      transform: translate(0%, 0%);
+    }
+    
     .important-text{
         margin: 0 0 0 5rem;
     }
@@ -43,18 +60,18 @@ export default {
         margin: 5rem auto;
     }
 
-  .important {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-    grid-gap: 20px;
-    max-width: 75rem;
-    margin: 1rem auto;
-    padding: 0 5rem;
-  }
+    .important {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+      grid-gap: 5px;
+      max-width: 50rem;
+      margin: 1rem auto;
+      padding: 0 5rem;
+    }
 
-  .important-panel img {
-    width: 100%;
-    height: 25vw;
-    object-fit: cover;
-  }
+    .important-panel img {
+      width: 100%;
+      height: 30vw;
+      object-fit: cover;
+    }
 </style>

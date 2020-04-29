@@ -12,7 +12,7 @@ import Important from '@/components/Important.vue';
 import Menu from '@/components/Menu.vue';
 
 export default {
-  title: 'Regina Grozdova portfolio',
+  title: 'Regina Grozdova portfoolio',
   name: 'home',
   components: {
     Important,

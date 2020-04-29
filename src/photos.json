@@ -1,56 +1,102 @@
 [
   {
-    "id": 0,
-    "outside": "Very important info",
-    "inside": "Hey there",
+    "id": 5,
+    "outside": "Tüdruk ja koer",
+    "inside": "Tehnika: digimaal",
     "filename": "kris.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
-    }
+    },
+    "year": "2020"
   },
   {
-    "id": 1,
-    "outside": "Very important info",
-    "inside": "Hey there",
+    "id": 6,
+    "outside": "Poiss",
+    "inside": "Tehnika: digimaal",
     "filename": "poiss.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
-    }
+    },
+    "year": "2020"
   },
   {
-    "id": 2,
-    "outside": "Very important info",
-    "inside": "Hey there",
-    "filename": "tudruk.jpg",
-    "autor": {
-      "name": "Autor: Regina Grozdova"
-    }
-  },
-  {
-    "id": 3,
-    "outside": "Very important info",
-    "inside": "Hey there",
+    "id": 7,
+    "outside": "Bengali tuled",
+    "inside": "Tehnika: digimaal",
     "filename": "pink.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
-    }
+    },
+    "year": "2019"
   },
   {
-    "id": 4,
-    "outside": "Very important info",
-    "inside": "Hey there",
-    "filename": "newYear.jpg",
-    "autor": {
-      "name": "Autor: Regina Grozdova"
-    }
-  },
-  {
-    "id": 5,
-    "outside": "Very important info",
-    "inside": "Hey there",
+    "id": 8,
+    "outside": "Võililled",
+    "inside": "Tehnika: digimaal",
     "filename": "flowie.jpg",
     "autor": {
       "name": "Autor: Regina Grozdova"
-    }
+    },
+    "year": "2019"
+  },
+  {
+    "id": 9,
+    "outside": "Mees",
+    "inside": "Tehnika: graafika, süsi",
+    "filename": "greece.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2018"
+  },
+  {
+    "id": 10,
+    "outside": "Loovtöö",
+    "inside": "Tehnika: digimaal",
+    "filename": "nature.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
+  },
+  {
+    "id": 11,
+    "outside": "Tilgad",
+    "inside": "Tehnika: graafika, tušš",
+    "filename": "dripping_man.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
+  },
+  {
+    "id": 12,
+    "outside": "Visandid",
+    "inside": "Tehnika: graafika, pastakas",
+    "filename": "bodies.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
+  },
+  {
+    "id": 13,
+    "outside": "Lavendel",
+    "inside": "Tehnika: maal, akrüül",
+    "filename": "wall.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2020"
+  },
+  {
+    "id": 14,
+    "outside": "Jalanõud",
+    "inside": "Tehnika: akrüül",
+    "filename": "boots.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
   }
 ]

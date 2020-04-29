@@ -1,6 +1,6 @@
 <template>
     <div class = "top-menu">
-        <span class = "top-text"> Regina Grozdova portfolio </span>
+        <span class = "top-text"> Regina Grozdova portfoolio </span>
     </div>
 </template>
 

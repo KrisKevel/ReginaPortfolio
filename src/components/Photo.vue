@@ -5,6 +5,7 @@
       <div class="lightbox-info-inner">
         <p v-if="photo.inside">{{ photo.inside }}</p>
         <p v-if="photo.autor.name">{{ photo.autor.name }}</p>
+        <p v-if="photo.year">{{ photo.year }}</p>
         <p v-if="photo.photographer">
           <a rel="nofollow" :href="photo.photographer.url">{{ photo.photographer.name }}</a>
         </p>
@@ -17,7 +18,7 @@
 </template>
 
 <script>
-import photos from '@/photos.json';
+import photos from '@/allphotos.json';
 
 export default {
   name: 'Photo',
@@ -62,6 +63,7 @@ export default {
     margin: auto 0 auto 5rem;
     max-height: 100%;
     width: 220%;
+    object-fit: contain;
     grid-column-start: 1;
   }
 

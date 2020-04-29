@@ -1,0 +1,152 @@
+[
+    {
+      "id": 0,
+      "outside": "Jalgrattas",
+      "inside": "Tehnika: graafika, värviline pliiats",
+      "filename": "bike.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 1,
+      "outside": "Luud",
+      "inside": "Tehnika: graafika, harilik pliiats",
+      "filename": "bones.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 2,
+      "outside": "Tool",
+      "inside": "Tehnika: maal, akrüül",
+      "filename": "chair.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 3,
+      "outside": "Naine",
+      "inside": "Tehnika: maal, akrüül",
+      "filename": "lady.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 4,
+      "outside": "Mänguruum tegelaskujudega",
+      "inside": "Tehnika: digimaal",
+      "filename": "plants.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2020"
+    },
+    {
+      "id": 5,
+      "outside": "Tüdruk ja koer",
+      "inside": "Tehnika: digimaal",
+      "filename": "kris.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2020"
+    },
+    {
+      "id": 6,
+      "outside": "Poiss",
+      "inside": "Tehnika: digimaal",
+      "filename": "poiss.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2020"
+    },
+    {
+      "id": 7,
+      "outside": "Bengali tuled",
+      "inside": "Tehnika: digimaal",
+      "filename": "pink.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 8,
+      "outside": "Võililled",
+      "inside": "Tehnika: digimaal",
+      "filename": "flowie.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 9,
+      "outside": "Mees",
+      "inside": "Tehnika: graafika, süsi",
+      "filename": "greece.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2018"
+    },
+    {
+      "id": 10,
+      "outside": "Loovtöö",
+      "inside": "Tehnika: digimaal",
+      "filename": "nature.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 11,
+      "outside": "Tilgad",
+      "inside": "Tehnika: graafika, tušš",
+      "filename": "dripping_man.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 12,
+      "outside": "Visandid",
+      "inside": "Tehnika: graafika, pastakas",
+      "filename": "bodies.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    },
+    {
+      "id": 13,
+      "outside": "Lavendel",
+      "inside": "Tehnika: maal, akrüül",
+      "filename": "wall.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2020"
+    },
+    {
+      "id": 14,
+      "outside": "Jalanõud",
+      "inside": "Tehnika: akrüül",
+      "filename": "boots.jpg",
+      "autor": {
+        "name": "Autor: Regina Grozdova"
+      },
+      "year": "2019"
+    }
+  ]

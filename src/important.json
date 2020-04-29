@@ -1,21 +1,43 @@
 [
-    {
-      "id": 0,
-      "outside": "Very important info",
-      "inside": "Hey there",
-      "filename": "kris.jpg",
-      "autor": {
-        "name": "Autor: Regina Grozdova"
-      }
+  {
+    "id": 0,
+    "outside": "Jalgrattas",
+    "inside": "Tehnika: graafika, värviline pliiats",
+    "filename": "bike.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
     },
-    {
-      "id": 1,
-      "outside": "Very important info",
-      "inside": "Hey there",
-      "filename": "poiss.jpg",
-      "autor": {
-        "name": "Autor: Regina Grozdova"
-      }
-    }
-  ]
+    "year": "2019"
+  },
+  {
+    "id": 1,
+    "outside": "Luud",
+    "inside": "Tehnika: graafika, harilik pliiats",
+    "filename": "bones.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
+  },
+  {
+    "id": 2,
+    "outside": "Tool",
+    "inside": "Tehnika: maal, akrüül",
+    "filename": "chair.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
+  },
+  {
+    "id": 3,
+    "outside": "Naine",
+    "inside": "Tehnika: maal, akrüül",
+    "filename": "lady.jpg",
+    "autor": {
+      "name": "Autor: Regina Grozdova"
+    },
+    "year": "2019"
+  }
+]
   
