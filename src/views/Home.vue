@@ -3,6 +3,7 @@
     <Menu />
     <Important />
     <Gallery />
+    <p class = "bottom">Copyright Regina Grozdova</p>
   </div>
 </template>
 
@@ -26,5 +27,10 @@ export default {
   body {
     background-color: #EA80FF;
     margin: 0 0 0 0;
+  }
+  .bottom {
+    font-size: 10px;
+    bottom: 2px;
+    text-align: center;
   }
 </style>

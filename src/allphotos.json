@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "outside": "Mänguruum tegelaskujudega \"5am\"",
+      "outside": "Mänguruum tegelaskujudega \"5pm\"",
       "inside": "Tehnika: digimaal",
       "filename": "plants.jpg",
       "autor": {
@@ -61,7 +61,7 @@
     },
     {
         "id": 6,
-        "outside": "Päievalilled ja päikeseloojang",
+        "outside": "Päevalilled ja päikeseloojang",
         "inside": "Tehnika: digimaal",
         "filename": "sun.jpg",
         "autor": {

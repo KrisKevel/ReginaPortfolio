@@ -15,7 +15,7 @@
                 <router-link :to="`/photo/4`">
                     <img :src="thumbUrl('plants.jpg')">
                 </router-link>
-                <p class = "outer">Mänguruum tegelaskujudega</p>
+                <p class = "outer">Mänguruum tegelaskujudega "5pm"</p>
             </div>
         </div>
     </div>
@@ -41,14 +41,14 @@ export default {
 
 <style>
     .centered{
+      margin: 0 0 0 9rem;
+      width: 50%;
+      padding: 10px;
       height: 30vw;
-      transform: translate(80%, 0%);
     }
 
     .centered img{
-      top: 200%;
       height: 30vw;
-      transform: translate(0%, 0%);
     }
     
     .important-text{
